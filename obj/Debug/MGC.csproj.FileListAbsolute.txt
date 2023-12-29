@@ -1,0 +1,15 @@
+C:\Users\tomda\source\repos\MGC\bin\Debug\MGC.exe.config
+C:\Users\tomda\source\repos\MGC\bin\Debug\MGC.exe
+C:\Users\tomda\source\repos\MGC\bin\Debug\MGC.pdb
+C:\Users\tomda\source\repos\MGC\obj\Debug\MainWindow.g.cs
+C:\Users\tomda\source\repos\MGC\obj\Debug\App.g.cs
+C:\Users\tomda\source\repos\MGC\obj\Debug\MGC_MarkupCompile.cache
+C:\Users\tomda\source\repos\MGC\obj\Debug\MGC_MarkupCompile.lref
+C:\Users\tomda\source\repos\MGC\obj\Debug\MainWindow.baml
+C:\Users\tomda\source\repos\MGC\obj\Debug\MGC.g.resources
+C:\Users\tomda\source\repos\MGC\obj\Debug\MGC.Properties.Resources.resources
+C:\Users\tomda\source\repos\MGC\obj\Debug\MGC.csproj.GenerateResource.cache
+C:\Users\tomda\source\repos\MGC\obj\Debug\MGC.csproj.CoreCompileInputs.cache
+C:\Users\tomda\source\repos\MGC\obj\Debug\MGC.exe
+C:\Users\tomda\source\repos\MGC\obj\Debug\MGC.pdb
+C:\Users\tomda\source\repos\MGC\obj\Debug\MGC.csprojAssemblyReference.cache

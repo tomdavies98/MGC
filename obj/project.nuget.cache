@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uqb3E9+xZXxqhhs8+rpuwkd1xTwU3+LNGJDfDWzmMVTMOLqqkBC1rO/uU/ef8dESYZnMVPpGabB5b0ZPgFZRhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomda\\OneDrive\\Documents\\GitRepos\\MGC\\MGC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomda\\.nuget\\packages\\fontawesome.wpf\\4.7.0.9\\fontawesome.wpf.4.7.0.9.nupkg.sha512",
+    "C:\\Users\\tomda\\.nuget\\packages\\microsoft.windowsapicodepack-core\\1.1.0\\microsoft.windowsapicodepack-core.1.1.0.nupkg.sha512",
+    "C:\\Users\\tomda\\.nuget\\packages\\microsoft.windowsapicodepack-shell\\1.1.0\\microsoft.windowsapicodepack-shell.1.1.0.nupkg.sha512",
+    "C:\\Users\\tomda\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\tomda\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\tomda\\.nuget\\packages\\screenrecorderlib\\5.4.0\\screenrecorderlib.5.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
