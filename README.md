@@ -1,4 +1,4 @@
-*Mom get the Camera*
+*Mom get the camera!*
 
 ![image](https://github.com/tomdavies98/MGC/assets/11966780/07eec3a7-ef2b-4c0c-9ef1-58cec9f98d85)
 
